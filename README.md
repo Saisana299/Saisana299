@@ -1,6 +1,6 @@
 ## 最近の成果物   
 <p align="left">
-<a href="https://janhoyaba.com"><img height="200" src="https://github.com/Janho-Dev/Janho/blob/master/assets/resources/title/janho_logo.png"></img></a><br>
+<a href="https://github.com/Janho-Dev/Janho"><img height="200" src="https://github.com/Janho-Dev/Janho/blob/master/assets/resources/title/janho_logo.png"></img></a><br>
 </p>
 
 **雀和(Janho)**  
