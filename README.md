@@ -1,5 +1,9 @@
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Saisana299&theme=vue)
- 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Saisana299&show_icons=true)
- 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Saisana299&layout=compact&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
+## 最近の成果物   
+<p align="left">
+<a href="https://janhoyaba.com"><img height="200" src="https://github.com/Janho-Dev/Janho/blob/master/assets/resources/title/janho_logo.png"></img></a><br>
+</p>
+
+**雀和(Janho)**  
+CocosCreator で制作したWebブラウザで動作する麻雀ゲームです。  
+一人～四人で遊ぶことができます。(オンライン対戦)  
+※四人に満たない場合は、CPUプレイヤーを追加して遊ぶことができます。
