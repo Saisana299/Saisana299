@@ -9,7 +9,16 @@ CocosCreator で制作したWebブラウザで動作する麻雀ゲームです�
 ※四人に満たない場合は、CPUプレイヤーを追加して遊ぶことができます。
 <hr>
 <p align="left">
-<a href="https://github.com/drone-autopilot"><img height="100" src="https://avatars.githubusercontent.com/u/144414107?s=48&v=4"></img></a><br>
+<a href="https://github.com/Saisana299/RPS-F32-SYNTH"><img height="100" src="https://assets.raspberrypi.com/static/wordmark-719b92092d172dc498f9ed816f47a942.svg"></img></a><br>
+</p>
+
+**RPS-F32**  
+Raspberry Pi Pico を使ったFMシンセサイザーの開発です。  
+コントロール部、シンセサイズ部、ユーザーインターフェース部に分けて開発しています。  
+
+<hr>
+<p align="left">
+<a href="https://github.com/drone-autopilot"><img height="100" src="https://stormsend1.djicdn.com/tpc/uploads/sku/cover/9e4b5fd8-325d-47b2-80ee-f47542134048@retina_small.png"></img></a><br>
 </p>
 
 **Drone Autopilot**  
