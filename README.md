@@ -9,7 +9,7 @@ CocosCreator で制作したWebブラウザで動作する麻雀ゲームです�
 ※四人に満たない場合は、CPUプレイヤーを追加して遊ぶことができます。
 <hr>
 <p align="left">
-<a href="https://github.com/Saisana299/RPS-F32-SYNTH"><img height="100" src="https://github.com/Saisana299/Saisana299/assets/46042980/9b26db5a-a03e-4d8e-b4a2-18d2114ef3b8"></img></a><br>
+<a href="https://github.com/Saisana299/RPS-F32-SYNTH"><img height="130" src="https://github.com/Saisana299/Saisana299/assets/46042980/4b843124-e7ef-42be-8226-04e7df2f50c7"></img></a><br>
 </p>
 
 **RPS-F32 (CNTL/DISP/SYNTH)**  
