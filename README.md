@@ -1,10 +1,11 @@
 ## 最近の成果物 & プロジェクト   
 <p align="left">
-<a href="https://github.com/Saisana299/RPS-F32-SYNTH"><img height="100" src="https://github.com/Saisana299/Saisana299/assets/46042980/4b843124-e7ef-42be-8226-04e7df2f50c7"></img></a><br>
+<a href="https://github.com/Saisana299/RPS-WT32-SYNTH"><img height="100" src="https://github.com/Saisana299/Saisana299/assets/46042980/b2218406-bd66-4880-9175-0beba2ce0d2d"></img></a><br>
 </p>
 
-**RPS-F32 (CTRL/DISP/SYNTH)**  
-Raspberry Pi Pico を使ったFMシンセサイザーの開発です。  
+
+**RPS-WT32 (CTRL/DISP/SYNTH)**  
+Raspberry Pi Pico を使ったWavetableシンセサイザーの開発です。  
 コントロール部、シンセサイズ部、ユーザーインターフェース部に分けて開発しています。  
 
 <hr>
