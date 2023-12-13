@@ -1,10 +1,10 @@
 ## 最近の成果物 & プロジェクト   
 <p align="left">
-<a href="https://github.com/Saisana299/RPS-WT32-SYNTH"><img height="100" src="https://github.com/Saisana299/Saisana299/assets/46042980/b2218406-bd66-4880-9175-0beba2ce0d2d"></img></a><br>
+<a href="https://github.com/Saisana299/RPS-WT32-SYNTH"><img height="100" src="https://github.com/Saisana299/Saisana299/assets/46042980/c090658a-6f93-4086-b2c9-c9fcc2f80a8e"></img></a><br>
 </p>
 
 
-**RPS-WT32 (CTRL/DISP/SYNTH)**  
+**RP-DS16 (CTRL/DISP/SYNTH)**  
 Raspberry Pi Pico を使ったWavetableシンセサイザーの開発です。  
 コントロール部、シンセサイズ部、ユーザーインターフェース部に分けて開発しています。  
 
