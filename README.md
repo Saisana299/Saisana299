@@ -10,13 +10,13 @@ Previously, I developed web-based online games, autonomous drone systems, and Mi
 ## GitHub Stats
 <p align="left">
   <picture>
-        <source media="(prefers-color-scheme: dark)"  srcset="output/metrics.base.svg" width="500" />
-	<source media="(prefers-color-scheme: light)" srcset="output/metrics.base.svg" width="500" />
+        <source media="(prefers-color-scheme: dark)"  srcset="output/metrics.base.svg" width="450" />
+	<source media="(prefers-color-scheme: light)" srcset="output/metrics.base.svg" width="450" />
 	<img alt="github profile contributions chart"    src="https://raw.githubusercontent.com/username/username/output-3d-contrib/day.svg" />
   </picture>
   <picture>
-   	<source media="(prefers-color-scheme: dark)"  srcset="output/details.svg" width="500" />
-	<source media="(prefers-color-scheme: light)" srcset="output/details.svg" width="500" />
+   	<source media="(prefers-color-scheme: dark)"  srcset="output/details.svg" width="450" />
+	<source media="(prefers-color-scheme: light)" srcset="output/details.svg" width="450" />
 	<img alt="github profile contributions chart"    src="https://raw.githubusercontent.com/username/username/output-3d-contrib/day.svg" />
   </picture>
 </p>
